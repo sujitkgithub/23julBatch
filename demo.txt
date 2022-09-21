@@ -5,6 +5,6 @@ We are working on git functionallity
 Topic covered
 OOPS
 collection
-BD
+
 
 need to update code 
